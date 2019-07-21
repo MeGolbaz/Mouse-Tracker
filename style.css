@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: url(images/cloudy\ bg.png);
+    background-size: cover;
+    position: relative;
+    cursor: url(images/cursor.cur),auto;
+}
+
+i {
+    font-size: 420%;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.904);
+}
